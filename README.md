@@ -1,73 +1,85 @@
-<!-- 🔥 CUSTOM BANNER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Aaron%20Adejola&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p><!-- 👋 INTRO --><h1 align="center">Hi 👋, I'm Aaron</h1><!-- 🧠 TYPING ANIMATION --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+Designer;Next.js+Enthusiast;Building+Clean+%26+Modern+Web+Apps"/>
-</p>---
+# 👋 Hello, I'm Aaron
 
-🧠 About Me
+**Web Developer | UI/UX Designer | Creative Technologist**
 
-- 💡 I build modern, clean, and responsive web apps
-- ⚡ I care about performance + smooth UI/UX
-- 🛠️ Currently building with Next.js & JavaScript
-- 📈 Always leveling up my skills
+🎨 Crafting clean, modern, and visually engaging digital experiences
+💻 Building fast, responsive, and scalable web applications
+🎥 Delivering professional livestream and digital media solutions
+🇳🇬 Based in Nigeria
 
 ---
 
-💼 Services
+## 🛠️ Tech Stack & Tools
 
-<p align="center"><img src="https://img.shields.io/badge/Web%20Design-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Development-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graphic%20Design-0f172a?style=for-the-badge&logo=adobe&logoColor=white"/>
-<img src="https://img.shields.io/badge/IT%20Consultation-0f172a?style=for-the-badge&logo=probot&logoColor=white"/><br/><img src="https://img.shields.io/badge/PC%20Building-0f172a?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laptop%20Repair-0f172a?style=for-the-badge&logo=ifixit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Recovery-0f172a?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Video%20%26%20Content-0f172a?style=for-the-badge&logo=youtube&logoColor=white"/><br/><img src="https://img.shields.io/badge/Livestream%20Expert-0f172a?style=for-the-badge&logo=obsstudio&logoColor=white"/></p>---
+**Frontend:**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
 
-🏆 GitHub Achievements
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>---
+**Databases & Services:**
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 
-📊 GitHub Stats
+**Design Tools:**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
-</p>---
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 
-📈 Activity Graph
+**Streaming Tools:**
+![OBS Studio](https://img.shields.io/badge/-OBS_Studio-302E31?style=flat\&logo=obs-studio\&logoColor=white)
+![EasyWorship](https://img.shields.io/badge/-EasyWorship-0078D7?style=flat)
+![ProPresenter](https://img.shields.io/badge/-ProPresenter-0078D7?style=flat)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>---
+---
 
-🌍 Connect With Me
+## 💼 Featured Work
 
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/Telegram-0f172a?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>---
+### 🔥   Laptop Repair and Diagnosis
 
-👀 Profile Views
+Professional laptop repair and diagnostics services focused on accurate fault detection, hardware repair, and performance optimization.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0f172a&style=for-the-badge"/>
-</p>---
+### 🌐 Business Websites
 
-✨ Vibe
+Clean, responsive, and conversion-focused websites for brands
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>---
+### 👰 Professional Wedding Websites.
 
-<!-- 🔥 FOOTER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
-</p>
+Wedding websites for couples celebration with RSVP forms, Google Maps integration e.t.c.
+
+### 📱 Bible App (Eliana)
+
+A modern scripture app focused on clean design and smooth experience
+
+---
+
+## 🌟 Content & Presence
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat\&logo=instagram\&logoColor=white)](instagram.com/adescographics)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat\&logo=telegram\&logoColor=white)](t.me/2347083913012)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat\&logo=gmail\&logoColor=white)](mailto:adescographics2023@gmail.com)
+
+---
+
+## 📬 Let's Connect
+
+Open to:
+
+* Freelance projects
+* Creative collaborations
+* Web & digital solutions
+* IT Repair and Diagnosis
+
+📧 Email: [My Email!](mailto:adescographics2023@gmail.com)
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adescographics.adescographics)
